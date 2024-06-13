@@ -4,8 +4,8 @@ from Plugin.api import *
 import os 
 
 SUDO = 7246248054 # admin or sudo id
-CHANNLS_BOT = ['R_O_L_I_X_5'] # bot channls 
-API_KEY = '7102991840:AAEAMmGfmRL9uDDBTsdYELCvurOtW3nPpj4'  # API_KEY OR BOT_TOKN 
+CHANNLS_BOT = ['R_O_L_I_X_6'] # bot channls 
+API_KEY = '7462206855:AAHpiHFYSKgsleMrRgEnVZBGcWRa27LvqOM'  # API_KEY OR BOT_TOKN 
 
 
 if not os.path.exists('./.session'):
